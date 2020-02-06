@@ -19,6 +19,7 @@ namespace PruebaGith
             Application.Run(new Form1());
             Console.WriteLine("hola");
             Console.WriteLine("Cambiando desde jlcnuevo");
+            Console.WriteLine("Cambiando desde jlcnuevo ahora si");
 
         }
     }
