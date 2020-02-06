@@ -1,0 +1,13 @@
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\PruebaGith.exe.config
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\PruebaGith.exe
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\PruebaGith.pdb
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\EntityFramework.dll
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\EntityFramework.xml
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.Properties.Resources.resources
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.exe
+C:\Users\Leonardo\source\repos\PruebaGith\PruebaGith\obj\Debug\PruebaGith.pdb
